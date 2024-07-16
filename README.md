@@ -21,7 +21,8 @@ Email: kristinapolomarenko@gmail.com
 GitHub Portfolio:https://github.com/SvetaPruc/Portfolio
 
 <div id="header" align="center">
-  <img src="ttps://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="[ttps://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://tenor.com/uk/view/wtf-stop-angry-cat-bruh-gif-13708473)" width="100"/>
 </div>
 
-<div class="tenor-gif-embed" data-postid="13708473" data-share-method="host" data-aspect-ratio="0.8" data-width="100%"><a href="https://tenor.com/view/wtf-stop-angry-cat-bruh-gif-13708473">Wtf Stop GIF</a>from <a href="https://tenor.com/search/wtf-gifs">Wtf GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+https://tenor.com/uk/view/wtf-stop-angry-cat-bruh-gif-13708473
