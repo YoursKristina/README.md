@@ -22,6 +22,6 @@ Email: kristinapolomarenko@gmail.com
 
 GitHub Portfolio: https://github.com/SvetaPruc/Portfolio
 
-<div align="center">
-  <img src="[https://tenor.com/uk/view/laptop-gif-26065252](https://tenor.com/uk/view/pup-puppy-dog-pet-cute-gif-17429685)" width="600" height="300"/>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
