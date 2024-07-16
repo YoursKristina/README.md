@@ -23,5 +23,5 @@ Email: kristinapolomarenko@gmail.com
 GitHub Portfolio: https://github.com/SvetaPruc/Portfolio
 
 <div align="center">
-  <img src="https://tenor.com/uk/view/wtf-stop-angry-cat-bruh-gif-13708473" width="600" height="300"/>
+  <img src="[https://tenor.com/uk/view/wtf-stop-angry-cat-bruh-gif-13708473](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNscnYyNmdhdGJpMzJ4dXgzY3BsZGV3ZWRsaWhtaDVyZzJyeThxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif)" width="600" height="300"/>
 </div>
