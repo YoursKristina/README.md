@@ -21,7 +21,7 @@ Email: kristinapolomarenko@gmail.com
 GitHub Portfolio:https://github.com/SvetaPruc/Portfolio
 
 <div id="header" align="center">
-  <img src="[https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGo5b2Y0NDFjMnJvOXJlN2hxb3NsbXQ5ank1YXVxdng3Mmhic21rNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif]" width="100"/>
+  <img src="[https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGo5b2Y0NDFjMnJvOXJlN2hxb3NsbXQ5ank1YXVxdng3Mmhic21rNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif]"/>
 </div>
 
 
