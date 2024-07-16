@@ -1,5 +1,5 @@
 # README.md
-Hi everyone, I'm Kristina! ✌🏼 I am a Test Engineer. Below, you'll find information about the tools and technologies I work with:
+Hi everyone, I'm Kristina! ✌🏼 I am a Test Engineer from Ukraine. Below, you'll find information about the tools and technologies I work with:
 
 Tools and Technologies🛠️
 Jira: Streamlining my test management and issue tracking.
@@ -13,16 +13,15 @@ XML & JSON: Navigating data formats with ease.
 Selenium IDE: Harnessing the potential of Selenium for web testing.
 Git: Version control for collaborative and organized testing.
 MySQL: Diving into database testing with SQL queries.
+
 Contact and Links 📫
-Telegram:@SvPruts
+
+Telegram: https://t.me/kriissttiinaaa
 
 Email: kristinapolomarenko@gmail.com
 
-GitHub Portfolio:https://github.com/SvetaPruc/Portfolio
+GitHub Portfolio: https://github.com/SvetaPruc/Portfolio
 
-<div id="header" align="center">
-  <img src="https://tenor.com/uk/view/wtf-stop-angry-cat-bruh-gif-13708473" width="100"/>
+<div align="center">
+  <img src="https://tenor.com/uk/view/wtf-stop-angry-cat-bruh-gif-13708473" width="600" height="300"/>
 </div>
-
-
-https://tenor.com/uk/view/wtf-stop-angry-cat-bruh-gif-13708473
