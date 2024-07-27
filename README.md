@@ -31,7 +31,7 @@ Telegram: https://t.me/kriissttiinaaa
 
 Email: kristinapolomarenko@gmail.com
 
-GitHub Portfolio: https://github.com/SvetaPruc/Portfolio
+GitHub Portfolio: https://github.com/YoursKristina/Portfolio
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
